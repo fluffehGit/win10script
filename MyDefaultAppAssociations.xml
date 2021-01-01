@@ -20,8 +20,8 @@
   <Association Identifier=".erf" ProgId="AppX43hnxtbyyps62jhe9sqpdzxn1790zetc" />
   <Association Identifier=".gif" ProgId="IrfanView.gif" ApplicationName="IrfanView 64-bit" />
   <Association Identifier=".heic" ProgId="IrfanView.heic" ApplicationName="IrfanView 64-bit" />
-  <Association Identifier=".htm" ProgId="BraveHTML" ApplicationName="Brave" />
-  <Association Identifier=".html" ProgId="BraveHTML" ApplicationName="Brave" />
+  <Association Identifier=".htm" ProgId="FirefoxHTML" ApplicationName="Firefox" />
+  <Association Identifier=".html" ProgId="FirefoxHTML" ApplicationName="Firefox" />
   <Association Identifier=".ico" ProgId="IrfanView.ico" ApplicationName="IrfanView 64-bit" />
   <Association Identifier=".inf" ProgId="inffile" ApplicationName="Notepad" />
   <Association Identifier=".ini" ProgId="inifile" ApplicationName="Notepad" />
